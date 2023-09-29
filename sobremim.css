@@ -1,0 +1,69 @@
+.eu{
+    text-align: center;
+    background-color: greenyellow;
+    font-style: italic;
+    color: green;
+    margin-bottom: auto;
+    padding-top: 0%;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium';
+    margin: 10px;
+    
+     }
+    .logo{
+    text-align: center;
+    top: 3cm;
+    left: 10px;
+    max-width: 80px;
+     }
+
+    .sobre{
+        text-align: center;
+        font-size: x-large;
+
+    }
+
+    form {
+    max-width: 600px;
+    margin: 200px;
+    border: 5px solid green;
+    padding: 20px;
+    border-radius: 5px;
+    }
+    fieldset {
+    border: none;
+    padding: 5px;
+    }
+    legend {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+    margin-bottom: 10px;
+    }
+    label {
+    display: block;
+    margin-bottom: 5px;
+    color: green;
+    }
+   
+    input[type="text"],
+    input[type="tel"],
+    input[type="email"],
+    textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+    border-radius: 5px;
+    }
+    
+    .imagem{
+    position: absolute;
+    
+    
+}
+
+    
+    

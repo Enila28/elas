@@ -1,0 +1,118 @@
+.loja{
+    background: rgb(135, 221, 135);
+    text-align: center;
+    padding-bottom: 2%;
+    margin: 10px 0;
+    font-size: 100px;
+    color: green;
+    
+
+}
+.loja-content h1{
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px green;
+    display: inline-block;
+    border-bottom:5px solid;
+    
+}
+.topo{
+    padding: 1px 0;
+    
+}
+.banner-topo{
+    background: greenyellow;
+    size: 50px;
+    text-align: justify;
+
+    
+}
+.banner-topo h1{
+    color: rgba(0, 128, 0, 0.989);
+    text-align: center;
+}
+
+.nav{
+    position: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+      
+}
+
+.cor-tema{
+    color: green;
+    text-align: center;
+}
+.img-destaque{
+    display: flex;
+    
+}
+.col-3{
+    flex-basis: 250px;
+    outline: 2px solid;
+    padding: 16px;
+    
+}
+.col-3 img{
+    width: 100%;
+    display: block;
+    
+}
+.col-3 p{
+    background-color: rgb(197, 223, 158);
+    color: green;
+    margin: 0;
+    padding: 8px;
+}
+.col-3 h4{
+    background-color: rgb(71, 190, 71);
+    color: green;
+    margin: 0;
+    padding: 8px;
+}
+
+.titulo{
+    font: 1em sans-serif;
+    font-size: 60px;
+    background-color: greenyellow;
+    color: green;
+    text-align: center;
+    margin-top: 50px;
+    padding: auto;
+    
+}
+
+.descrição{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 35px;
+    color: green;
+}
+
+.produtos{
+    text-align: center;
+    padding: 4%;
+    margin: 25px;
+    background-color: greenyellow;
+    color: green;
+}
+
+.contat{
+    text-align: center;
+    background-color: greenyellow;
+    color: green;
+    padding: 20px;
+    margin: 30px;
+}
+
+.contato{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.Aline{
+    color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+    
+}
